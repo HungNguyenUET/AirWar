@@ -1,5 +1,5 @@
 # AirWar
-# Update version1.0
+# Update version 1.0
 Game planes shoot
 It's easy game.
 Have 2 plane. Player control 1 plane by mouse and left click to shoot.
